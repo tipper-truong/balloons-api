@@ -1,0 +1,6 @@
+runtime.txt
+docker-compose.yml
+Dockerfile
+__pycache__/
+.DS_Store
+Procfile
